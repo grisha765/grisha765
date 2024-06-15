@@ -21,8 +21,8 @@ A Telegram bot designed to transcribe voice messages, making communication more 
 ### 3. [fastapi_blog](https://github.com/grisha765/fastapi_blog_py)
 This is the Backend written on Python Fastapi, with authorization, cookies, posts, comments.
 
-### 4. [wallaper-app](https://github.com/grisha765/wallaper-app)
-A utility for changing wallpapers effortlessly, adding a touch of personalization to your desktop.
+### 4. [chatbot_py](https://github.com/grisha765/chatbot_py)
+My implementation of interaction with different GPT bots.
 
 ### 5. [catacli](https://github.com/grisha765/catacli)
 A command-line launcher for Cataclysm: Dark Days Ahead on Linux, requiring several dependencies like curl, wget, and SDL2.
