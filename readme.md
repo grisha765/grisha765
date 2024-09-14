@@ -30,7 +30,7 @@ A command-line launcher for Cataclysm: Dark Days Ahead on Linux, requiring sever
 ### 6. [shop_tg_bot](https://github.com/grisha765/shop_tg_bot)
 Telegram bot that manages a product catalog, allowing administrators to add and delete products, and users to browse and purchase them.
 
-![grisha765's GitHub stats](https://github-readme-stats.vercel.app/api?username=grisha765&show_icons=true&theme=great-gatsby&text_color=ffffff&hide_border=true&border_radius=20&include_all_commits=true&count_private=false&hide=contribs)
+![grisha765's GitHub stats](https://github-readme-stats.vercel.app/api?username=grisha765&show_icons=true&bg_color=000000&title_color=F58143&icon_color=F58143&text_color=ffffff&hide_border=true&border_radius=20&include_all_commits=true&count_private=false&hide=contribs)
 
 ![grisha765's GitHub Profile views](https://komarev.com/ghpvc/?username=grisha765&color=orange&style=plastic)
 
