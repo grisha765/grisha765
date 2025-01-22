@@ -20,19 +20,19 @@ A gaming bot for telegram.
 ### 2. [downloader_tg_py](https://github.com/grisha765/downloader_tg_py)
 Telegram bot that allows you to download videos ~~and other files~~ using links.
 
-### 3. [whisper_tg_bot](https://github.com/grisha765/whisper_tg_bot)
-A Telegram bot designed to transcribe voice messages, making communication more accessible and versatile.
+### 3. [gpt4tg](https://github.com/grisha765/gpt4tg)
+My implementation of the gpt4free project and gemini as telegram bot.
 
-### 4. [fastapi_blog](https://github.com/grisha765/fastapi_blog_py)
-This is the Backend written on Python Fastapi, with authorization, cookies, posts, comments.
+### 4. [whisper_tg_bot](https://github.com/grisha765/whisper_tg_bot)
+A Telegram bot designed to transcribe voice messages, making communication more accessible and versatile.
 
 ### 5. [chatbot_py](https://github.com/grisha765/chatbot_py)
 My implementation of interaction with different GPT bots.
 
-### 6. [catacli](https://github.com/grisha765/catacli)
-A command-line launcher for Cataclysm: Dark Days Ahead on Linux, requiring several dependencies like curl, wget, and SDL2.
+### 6. [check-host](https://github.com/grisha765/check-host)
+The project provides backend and frontend for checking ip address and port.
 
-### 7. [shop_tg_bot](https://github.com/grisha765/shop_tg_bot)
-Telegram bot that manages a product catalog, allowing administrators to add and delete products, and users to browse and purchase them.
+### 7. [catacli](https://github.com/grisha765/catacli)
+A command-line launcher for Cataclysm: Dark Days Ahead on Linux, requiring several dependencies like curl, wget, and SDL2.
 
 ![grisha765's GitHub Profile views](https://komarev.com/ghpvc/?username=grisha765&color=orange&style=plastic)
